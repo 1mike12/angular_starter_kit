@@ -1,0 +1,26 @@
+{
+  "name": "startup_chat",
+  "version": "0.0.0",
+  "authors": [
+    "Mike Qin <1mike12@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4",
+    "Materialize": "materialize#~0.97.1",
+    "font-awesome": "~4.4.0",
+    "faker": "Faker#~3.0.1",
+    "modernizr": "~3.2.0"
+  },
+  "resolutions": {
+    "faker": "~3.0.1"
+  }
+}
